@@ -1,0 +1,175 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\vscode\\LuxFacta\\poll\\Poll.Domain.Services\\Poll.Domain.Services.csproj": {}
+  },
+  "projects": {
+    "D:\\vscode\\LuxFacta\\poll\\Poll.Domain.Core\\Poll.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\vscode\\LuxFacta\\poll\\Poll.Domain.Core\\Poll.Domain.Core.csproj",
+        "projectName": "Poll.Domain.Core",
+        "projectPath": "D:\\vscode\\LuxFacta\\poll\\Poll.Domain.Core\\Poll.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\rfernandes\\.nuget\\packages\\",
+        "outputPath": "D:\\vscode\\LuxFacta\\poll\\Poll.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rfernandes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\vscode\\LuxFacta\\poll\\Poll.Domain\\Poll.Domain.csproj": {
+                "projectPath": "D:\\vscode\\LuxFacta\\poll\\Poll.Domain\\Poll.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\vscode\\LuxFacta\\poll\\Poll.Domain.Services\\Poll.Domain.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\vscode\\LuxFacta\\poll\\Poll.Domain.Services\\Poll.Domain.Services.csproj",
+        "projectName": "Poll.Domain.Services",
+        "projectPath": "D:\\vscode\\LuxFacta\\poll\\Poll.Domain.Services\\Poll.Domain.Services.csproj",
+        "packagesPath": "C:\\Users\\rfernandes\\.nuget\\packages\\",
+        "outputPath": "D:\\vscode\\LuxFacta\\poll\\Poll.Domain.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rfernandes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\vscode\\LuxFacta\\poll\\Poll.Domain.Core\\Poll.Domain.Core.csproj": {
+                "projectPath": "D:\\vscode\\LuxFacta\\poll\\Poll.Domain.Core\\Poll.Domain.Core.csproj"
+              },
+              "D:\\vscode\\LuxFacta\\poll\\Poll.Domain\\Poll.Domain.csproj": {
+                "projectPath": "D:\\vscode\\LuxFacta\\poll\\Poll.Domain\\Poll.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\vscode\\LuxFacta\\poll\\Poll.Domain\\Poll.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\vscode\\LuxFacta\\poll\\Poll.Domain\\Poll.Domain.csproj",
+        "projectName": "Poll.Domain",
+        "projectPath": "D:\\vscode\\LuxFacta\\poll\\Poll.Domain\\Poll.Domain.csproj",
+        "packagesPath": "C:\\Users\\rfernandes\\.nuget\\packages\\",
+        "outputPath": "D:\\vscode\\LuxFacta\\poll\\Poll.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rfernandes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

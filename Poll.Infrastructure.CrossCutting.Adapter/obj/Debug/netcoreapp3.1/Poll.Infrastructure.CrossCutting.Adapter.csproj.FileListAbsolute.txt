@@ -1,0 +1,14 @@
+D:\vscode\LuxFacta\poll\Poll.Infrastructure.CrossCutting.Adapter\bin\Debug\netcoreapp3.1\Poll.Infrastructure.CrossCutting.Adapter.deps.json
+D:\vscode\LuxFacta\poll\Poll.Infrastructure.CrossCutting.Adapter\bin\Debug\netcoreapp3.1\Poll.Infrastructure.CrossCutting.Adapter.dll
+D:\vscode\LuxFacta\poll\Poll.Infrastructure.CrossCutting.Adapter\bin\Debug\netcoreapp3.1\Poll.Infrastructure.CrossCutting.Adapter.pdb
+D:\vscode\LuxFacta\poll\Poll.Infrastructure.CrossCutting.Adapter\bin\Debug\netcoreapp3.1\Poll.Application.DTO.dll
+D:\vscode\LuxFacta\poll\Poll.Infrastructure.CrossCutting.Adapter\bin\Debug\netcoreapp3.1\Poll.Domain.dll
+D:\vscode\LuxFacta\poll\Poll.Infrastructure.CrossCutting.Adapter\bin\Debug\netcoreapp3.1\Poll.Application.DTO.pdb
+D:\vscode\LuxFacta\poll\Poll.Infrastructure.CrossCutting.Adapter\bin\Debug\netcoreapp3.1\Poll.Domain.pdb
+D:\vscode\LuxFacta\poll\Poll.Infrastructure.CrossCutting.Adapter\obj\Debug\netcoreapp3.1\Poll.Infrastructure.CrossCutting.Adapter.csprojAssemblyReference.cache
+D:\vscode\LuxFacta\poll\Poll.Infrastructure.CrossCutting.Adapter\obj\Debug\netcoreapp3.1\Poll.Infrastructure.CrossCutting.Adapter.AssemblyInfoInputs.cache
+D:\vscode\LuxFacta\poll\Poll.Infrastructure.CrossCutting.Adapter\obj\Debug\netcoreapp3.1\Poll.Infrastructure.CrossCutting.Adapter.AssemblyInfo.cs
+D:\vscode\LuxFacta\poll\Poll.Infrastructure.CrossCutting.Adapter\obj\Debug\netcoreapp3.1\Poll.Infrastructure.CrossCutting.Adapter.csproj.CoreCompileInputs.cache
+D:\vscode\LuxFacta\poll\Poll.Infrastructure.CrossCutting.Adapter\obj\Debug\netcoreapp3.1\Poll.Infrastructure.CrossCutting.Adapter.csproj.CopyComplete
+D:\vscode\LuxFacta\poll\Poll.Infrastructure.CrossCutting.Adapter\obj\Debug\netcoreapp3.1\Poll.Infrastructure.CrossCutting.Adapter.dll
+D:\vscode\LuxFacta\poll\Poll.Infrastructure.CrossCutting.Adapter\obj\Debug\netcoreapp3.1\Poll.Infrastructure.CrossCutting.Adapter.pdb

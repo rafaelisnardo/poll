@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Poll.Domain.Services/1.0.0": {
+        "dependencies": {
+          "Poll.Domain": "1.0.0",
+          "Poll.Domain.Core": "1.0.0"
+        },
+        "runtime": {
+          "Poll.Domain.Services.dll": {}
+        }
+      },
+      "Poll.Domain/1.0.0": {
+        "runtime": {
+          "Poll.Domain.dll": {}
+        }
+      },
+      "Poll.Domain.Core/1.0.0": {
+        "dependencies": {
+          "Poll.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Poll.Domain.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Poll.Domain.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Poll.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Poll.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

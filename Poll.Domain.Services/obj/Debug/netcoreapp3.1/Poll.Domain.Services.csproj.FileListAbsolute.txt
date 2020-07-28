@@ -1,0 +1,14 @@
+D:\vscode\LuxFacta\poll\Poll.Domain.Services\bin\Debug\netcoreapp3.1\Poll.Domain.Services.deps.json
+D:\vscode\LuxFacta\poll\Poll.Domain.Services\bin\Debug\netcoreapp3.1\Poll.Domain.Services.dll
+D:\vscode\LuxFacta\poll\Poll.Domain.Services\bin\Debug\netcoreapp3.1\Poll.Domain.Services.pdb
+D:\vscode\LuxFacta\poll\Poll.Domain.Services\bin\Debug\netcoreapp3.1\Poll.Domain.Core.dll
+D:\vscode\LuxFacta\poll\Poll.Domain.Services\bin\Debug\netcoreapp3.1\Poll.Domain.dll
+D:\vscode\LuxFacta\poll\Poll.Domain.Services\bin\Debug\netcoreapp3.1\Poll.Domain.pdb
+D:\vscode\LuxFacta\poll\Poll.Domain.Services\bin\Debug\netcoreapp3.1\Poll.Domain.Core.pdb
+D:\vscode\LuxFacta\poll\Poll.Domain.Services\obj\Debug\netcoreapp3.1\Poll.Domain.Services.csprojAssemblyReference.cache
+D:\vscode\LuxFacta\poll\Poll.Domain.Services\obj\Debug\netcoreapp3.1\Poll.Domain.Services.AssemblyInfoInputs.cache
+D:\vscode\LuxFacta\poll\Poll.Domain.Services\obj\Debug\netcoreapp3.1\Poll.Domain.Services.AssemblyInfo.cs
+D:\vscode\LuxFacta\poll\Poll.Domain.Services\obj\Debug\netcoreapp3.1\Poll.Domain.Services.csproj.CoreCompileInputs.cache
+D:\vscode\LuxFacta\poll\Poll.Domain.Services\obj\Debug\netcoreapp3.1\Poll.Domain.Services.csproj.CopyComplete
+D:\vscode\LuxFacta\poll\Poll.Domain.Services\obj\Debug\netcoreapp3.1\Poll.Domain.Services.dll
+D:\vscode\LuxFacta\poll\Poll.Domain.Services\obj\Debug\netcoreapp3.1\Poll.Domain.Services.pdb

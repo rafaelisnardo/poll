@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="5.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Poll.Application\Poll.Application.csproj" />
+    <ProjectReference Include="..\Poll.Domain.Services\Poll.Domain.Services.csproj" />
+    <ProjectReference Include="..\Poll.Infrastructure.CrossCutting.Adapter\Poll.Infrastructure.CrossCutting.Adapter.csproj" />
+    <ProjectReference Include="..\Poll.Infrastructure.Repository\Poll.Infrastructure.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

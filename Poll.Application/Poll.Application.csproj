@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Poll.Application.DTO\Poll.Application.DTO.csproj" />
+    <ProjectReference Include="..\Poll.Domain.Core\Poll.Domain.Core.csproj" />
+    <ProjectReference Include="..\Poll.Infrastructure.CrossCutting.Adapter\Poll.Infrastructure.CrossCutting.Adapter.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+</Project>

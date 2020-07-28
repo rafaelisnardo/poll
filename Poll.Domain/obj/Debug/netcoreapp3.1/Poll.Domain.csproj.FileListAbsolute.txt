@@ -1,0 +1,9 @@
+D:\vscode\LuxFacta\poll\Poll.Domain\bin\Debug\netcoreapp3.1\Poll.Domain.deps.json
+D:\vscode\LuxFacta\poll\Poll.Domain\bin\Debug\netcoreapp3.1\Poll.Domain.dll
+D:\vscode\LuxFacta\poll\Poll.Domain\bin\Debug\netcoreapp3.1\Poll.Domain.pdb
+D:\vscode\LuxFacta\poll\Poll.Domain\obj\Debug\netcoreapp3.1\Poll.Domain.csprojAssemblyReference.cache
+D:\vscode\LuxFacta\poll\Poll.Domain\obj\Debug\netcoreapp3.1\Poll.Domain.AssemblyInfoInputs.cache
+D:\vscode\LuxFacta\poll\Poll.Domain\obj\Debug\netcoreapp3.1\Poll.Domain.AssemblyInfo.cs
+D:\vscode\LuxFacta\poll\Poll.Domain\obj\Debug\netcoreapp3.1\Poll.Domain.csproj.CoreCompileInputs.cache
+D:\vscode\LuxFacta\poll\Poll.Domain\obj\Debug\netcoreapp3.1\Poll.Domain.dll
+D:\vscode\LuxFacta\poll\Poll.Domain\obj\Debug\netcoreapp3.1\Poll.Domain.pdb
