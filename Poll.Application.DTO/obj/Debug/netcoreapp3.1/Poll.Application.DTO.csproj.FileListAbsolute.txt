@@ -1,9 +1,9 @@
 D:\vscode\LuxFacta\poll\Poll.Application.DTO\bin\Debug\netcoreapp3.1\Poll.Application.DTO.deps.json
 D:\vscode\LuxFacta\poll\Poll.Application.DTO\bin\Debug\netcoreapp3.1\Poll.Application.DTO.dll
 D:\vscode\LuxFacta\poll\Poll.Application.DTO\bin\Debug\netcoreapp3.1\Poll.Application.DTO.pdb
+D:\vscode\LuxFacta\poll\Poll.Application.DTO\obj\Debug\netcoreapp3.1\Poll.Application.DTO.csprojAssemblyReference.cache
 D:\vscode\LuxFacta\poll\Poll.Application.DTO\obj\Debug\netcoreapp3.1\Poll.Application.DTO.AssemblyInfoInputs.cache
 D:\vscode\LuxFacta\poll\Poll.Application.DTO\obj\Debug\netcoreapp3.1\Poll.Application.DTO.AssemblyInfo.cs
 D:\vscode\LuxFacta\poll\Poll.Application.DTO\obj\Debug\netcoreapp3.1\Poll.Application.DTO.csproj.CoreCompileInputs.cache
 D:\vscode\LuxFacta\poll\Poll.Application.DTO\obj\Debug\netcoreapp3.1\Poll.Application.DTO.dll
 D:\vscode\LuxFacta\poll\Poll.Application.DTO\obj\Debug\netcoreapp3.1\Poll.Application.DTO.pdb
-D:\vscode\LuxFacta\poll\Poll.Application.DTO\obj\Debug\netcoreapp3.1\Poll.Application.DTO.csprojAssemblyReference.cache
